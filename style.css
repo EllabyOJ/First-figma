@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*
+body{
+    background-color: #f3f2f5;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand{
+    font-size: 36px;
+}
+.hero-section{
+    width: 80%;
+    margin: 10% auto 0%;
+}
+.hero-title{
+    padding-top: 40px;
+    font-size: 64px;
+    line-height: 75px;
+    font-weight: 700;
+}
+.subtitle{
+    font-size: 20px;
+    font-weight: 400;
+}
+.hero-text{
+    font-size: 26px;
+    height: 40px;
+}
+.service{
+    font-size: 36px;
+}
+.col h2{
+    font-size: 24px;
+}
+.col p{
+    font-size: 18px;
+    line-height: 21px;
+}
+.products{
+    gap: 2rem;
+    margin: auto 13%;
+}
+.products h5{
+    font-size: 26px;
+}
+.products p{
+    font-size: 20px;
+}
+.bg-image{
+    background-image: url(/images/hand-painted-watercolor-background-with-sky-and-clouds-shape\ 1.png);
+}
+.flexed{
+    height: 300px;
+    width: 90%;
+    display: flex;
+    gap: 2rem;
+    margin-left: 5%;
+}
+.flexed #card-header, h5{
+    font-size: 24px;
+}
+.flexed #card-text{
+    font-size: 18px;
+}
+#forms{
+    margin-left: 12%;
+}
